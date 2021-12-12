@@ -31,6 +31,6 @@ An example go project using the clean architecture.
 
 ## Clean Architecture
 
-Please read [THIS BLOG](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) from Robert C. Martin to know Clean Arthicture. 
+Please read [THIS BLOG](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) from Robert C. Martin to know Clean Architecture. 
 
 ![](https://wx4.sinaimg.cn/mw2000/6ae0adaely1gxb4xhga07j210u0ulgro.jpg)
